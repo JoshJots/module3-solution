@@ -1,4 +1,10 @@
 h1 {
 	color: silver;
-	background-color: pink
+	background-color: pink;
+	text-align: center;	
+}
+
+p {
+	color:green;
+
 }
