@@ -1,5 +1,5 @@
 .navbar {
-	background-color: #7FFFD4;
+	background-color: #FFA07A;
 }
 
 .navbar-style {
@@ -15,7 +15,7 @@
 	height: 1000px;
 }
 .div-style {
-	background-color: #cccccc;
+	background-color: #D3D3D3;
 	padding: 10px;
 	margin: 5px;
 }
@@ -23,13 +23,14 @@
 	font-size: 3em;
 	font-family: 'Montserrat', sans-serif;
 	font-weight: bold;
+	margin-top: 10px
 
 }
 .navbar-default .navbar-brand {
-	color: #ffffff;
+	color: #FAF0E6;
 }
 .navbar-default .navbar-nav>li>a {
-	color: #ffffff;
+	color: #FAF0E6;
 	border-bottom: 1px solid;
 }
 .navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover {
@@ -43,3 +44,4 @@ p {
 h1, h2, h3 {
 	margin-top: 0px;
 }
+
